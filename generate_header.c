@@ -12,26 +12,19 @@
 
 #include <stdio.h>
 
-int main(int argc, const char **argv)
+static void generate_from_json(const char *path, const char *prefix, char **out, tm_allocator_i *a)
 {
-    TM_INIT_TEMP_ALLOCATOR_WITH_ADAPTER(ta, a);
+    TM_INIT_TEMP_ALLOCATOR(ta);
 
-    const uint64_t size = tm_os_api->file_system->stat("ionicons.json").size;
+    tm_carray_print(out, a, "\nenum {\n");
+
+    const uint64_t size = tm_os_api->file_system->stat(path).size;
     char *json = tm_temp_alloc(ta, size + 1);
     json[size] = 0;
 
-    tm_file_o f = tm_os_api->file_io->open_input("ionicons.json");
+    tm_file_o f = tm_os_api->file_io->open_input(path);
     tm_os_api->file_io->read(f, json, size);
     tm_os_api->file_io->close(f);
-
-    char *out = 0;
-    char *utf8_strings = 0;
-
-    tm_carray_print(&out, a,
-        "// This header file lists all the glyphs in the ionicons.ttf file included in this\n"
-        "// library package.\n"
-        "\n"
-        "enum {\n");
 
     tm_config_i *cd = tm_config_api->create(a);
     tm_json_api->parse(json, cd, 0, 0);
@@ -57,13 +50,29 @@ int main(int argc, const char **argv)
         }
 
         if (glyph == next)
-            tm_carray_printf(&out, a, "    IONICON__%s,\n", name_caps);
+            tm_carray_printf(out, a, "    %s__%s,\n", prefix, name_caps);
         else
-            tm_carray_printf(&out, a, "    IONICON__%s = %d,\n", name_caps, glyph);
+            tm_carray_printf(out, a, "    %s__%s = %d,\n", prefix, name_caps, glyph);
         next = glyph + 1;
     }
 
-    tm_carray_print(&out, a, "};\n");
+    tm_carray_print(out, a, "};\n");
+
+    TM_SHUTDOWN_TEMP_ALLOCATOR(ta);
+}
+
+int main(int argc, const char **argv)
+{
+    TM_INIT_TEMP_ALLOCATOR_WITH_ADAPTER(ta, a);
+
+    char *out = 0;
+
+    tm_carray_print(&out, a,
+        "// This header file lists all the glyphs in the ionicons.ttf file included in this\n"
+        "// library package.\n");
+
+    generate_from_json("ionicons.json", "IONICON", &out, a);
+    generate_from_json("the-machinery-add-ons.json", "IONICON_ADD_ON", &out, a);
 
     tm_file_o of = tm_os_api->file_io->open_output("ionicons.h", false);
     tm_os_api->file_io->write(of, out, tm_carray_size(out));
