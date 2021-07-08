@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512.0px"
+   height="512.0px"
+   viewBox="0 0 512.0 512.0"
+   version="1.1"
+   id="SVGRoot"
+   sodipodi:docname="tm_box_outline.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1171"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="223.79929"
+     inkscape:cy="319.2587"
+     inkscape:window-width="1854"
+     inkscape:window-height="1057"
+     inkscape:window-x="58"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1234" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1166">
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path11900" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <path
+       id="path6193"
+       style="color:#000000;fill:#000000;stroke-linecap:round;stroke-dashoffset:93.6;-inkscape-stroke:none"
+       d="M 256.0293 2 A 18 18 0 0 0 250.49609 2.9648438 A 18 18 0 0 0 248.98047 3.5898438 A 18 18 0 0 0 247.02539 4.3964844 L 21.025391 134.39648 A 18 18 0 0 0 20.275391 135.00195 A 18 18 0 0 0 18.099609 136.75781 A 18 18 0 0 0 16.117188 138.74023 A 18 18 0 0 0 14.587891 141.08789 A 18 18 0 0 0 13.318359 143.57812 A 18 18 0 0 0 12.587891 146.28711 A 18 18 0 0 0 12.150391 149.05078 A 18 18 0 0 0 12 150 L 12 360 A 18 18 0 0 0 12.150391 360.94922 A 18 18 0 0 0 12.587891 363.71289 A 18 18 0 0 0 13.318359 366.42188 A 18 18 0 0 0 14.587891 368.91211 A 18 18 0 0 0 16.117188 371.25977 A 18 18 0 0 0 18.099609 373.24219 A 18 18 0 0 0 20.275391 374.99805 A 18 18 0 0 0 21.025391 375.60352 L 247.02539 505.60352 A 18 18 0 0 0 247.91211 505.94336 A 18 18 0 0 0 250.53711 506.94531 A 18 18 0 0 0 253.23633 507.66211 A 18 18 0 0 0 256.0332 507.80273 A 18 18 0 0 0 258.83203 507.65039 A 18 18 0 0 0 261.53125 506.92188 A 18 18 0 0 0 264.14453 505.91211 A 18 18 0 0 0 265.03516 505.56836 L 489.03516 375.56836 A 18 18 0 0 0 490.44531 374.63086 A 18 18 0 0 0 490.64258 374.5 A 18 18 0 0 0 494.42188 370.7207 A 18 18 0 0 0 494.66016 370.38672 A 18 18 0 0 0 497.10547 365.58984 A 18 18 0 0 0 497.12891 365.5 A 18 18 0 0 0 497.9668 360.20898 A 18 18 0 0 0 498 360 L 498 150 A 18 18 0 0 0 497.99609 149.92383 A 18 18 0 0 0 497.9668 149.37695 A 18 18 0 0 0 497.95508 149.14453 A 18 18 0 0 0 497.91602 148.38281 A 18 18 0 0 0 497.86328 147.86914 A 18 18 0 0 0 497.75586 147.19922 A 18 18 0 0 0 497.70312 146.85547 A 18 18 0 0 0 497.62305 146.36133 A 18 18 0 0 0 497.5 145.85742 A 18 18 0 0 0 497.29883 145.10742 A 18 18 0 0 0 497.09766 144.38086 A 18 18 0 0 0 496.94727 143.99023 A 18 18 0 0 0 496.91602 143.91211 A 18 18 0 0 0 496.91016 143.89453 A 18 18 0 0 0 496.60938 143.11328 A 18 18 0 0 0 496.34961 142.49805 A 18 18 0 0 0 496.0625 141.92578 A 18 18 0 0 0 495.86719 141.5 A 18 18 0 0 0 495.79688 141.41211 A 18 18 0 0 0 495.37891 140.67773 A 18 18 0 0 0 494.94922 140.01562 A 18 18 0 0 0 494.2168 138.99219 A 18 18 0 0 0 493.69922 138.35352 A 18 18 0 0 0 492.83203 137.41016 A 18 18 0 0 0 492.29688 136.875 A 18 18 0 0 0 492.01172 136.5957 A 18 18 0 0 0 491.98242 136.57227 A 18 18 0 0 0 491.23633 135.96875 A 18 18 0 0 0 490.72266 135.55273 A 18 18 0 0 0 489.24609 134.57227 A 18 18 0 0 0 489.03516 134.43164 L 489 134.41211 L 265.03516 4.4316406 A 18 18 0 0 0 263.08789 3.6191406 A 18 18 0 0 0 261.56836 2.9863281 A 18 18 0 0 0 256.04102 2 A 18 18 0 0 0 256.03516 2.0019531 A 18 18 0 0 0 256.0293 2 z M 255.96094 40.789062 L 443.05469 149.37109 L 255.95898 249.60156 L 67.136719 149.4043 L 255.96094 40.789062 z M 48 180.00391 L 237.99609 280.82422 L 237.12891 458.37891 L 48 349.58789 L 48 180.00391 z M 462 180.06445 L 462 349.63477 L 273.125 459.25 L 273.99609 280.7793 L 462 180.06445 z " />
+  </g>
+</svg>
