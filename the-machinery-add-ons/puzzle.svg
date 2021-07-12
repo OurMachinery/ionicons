@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512.0px"
+   height="512.0px"
+   viewBox="0 0 512.0 512.0"
+   version="1.1"
+   id="SVGRoot"
+   sodipodi:docname="tm_puzzle.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1171"
+     pagecolor="#333333"
+     bordercolor="#f2c302"
+     borderopacity="0.27058824"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="false"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="0.90509668"
+     inkscape:cx="408.24368"
+     inkscape:cy="280.08058"
+     inkscape:window-width="1854"
+     inkscape:window-height="1057"
+     inkscape:window-x="58"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="rect990"
+     inkscape:snap-grids="true"
+     showguides="false"
+     borderlayer="false"
+     showborder="true"
+     inkscape:showpageshadow="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1234"
+       visible="true"
+       empcolor="#3f3fff"
+       empopacity="0.22352941"
+       color="#7f7fbf"
+       opacity="0.1254902" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1166">
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path11900" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <g
+       id="rect990">
+      <path
+         id="path20658"
+         style="color:#000000;fill:#000000;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:93.6;-inkscape-stroke:none"
+         d="M 251.4043,3.8789062 C 220.90615,4.8120404 190.30339,18.012468 170.70898,43.841797 154.68603,64.96324 147.45501,94.20115 152.75781,128.20898 h -9.47656 c -42.90061,0 -78,35.0994 -78,78 v 219.40625 c 0,42.90061 33.54818,82.29688 78,82.29688 h 225.4375 c 44.49552,0 78,-39.48199 78,-82.29688 V 400 c -10e-4,-12.4305 -12.3017,-21.11882 -24.01758,-16.96484 -53.50046,18.9753 -89.24031,12.17816 -112.27148,-3.89454 -23.03117,-16.07267 -34.81478,-43.36032 -34.67774,-70.96679 0.13705,-27.60647 12.11514,-54.03129 34.91993,-68.85742 22.8048,-14.82614 58.32107,-20.07521 111.29296,1.36914 11.83341,4.78804 24.7525,-3.92017 24.75391,-16.68555 v -17.79102 c 0,-42.15524 -33.69146,-78 -78,-78 H 356.46484 C 360.5892,91.338622 351.90313,60.947002 334.37109,39.724609 313.42691,14.371841 281.90245,2.945772 251.4043,3.8789062 Z" />
+    </g>
+  </g>
+</svg>

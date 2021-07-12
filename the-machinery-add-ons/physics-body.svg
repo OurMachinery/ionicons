@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512.0px"
+   height="512.0px"
+   viewBox="0 0 512.0 512.0"
+   version="1.1"
+   id="SVGRoot"
+   sodipodi:docname="physics-body.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1171"
+     pagecolor="#333333"
+     bordercolor="#f2c302"
+     borderopacity="0.27058824"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="false"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="196.92923"
+     inkscape:cy="293.80286"
+     inkscape:window-width="1854"
+     inkscape:window-height="1057"
+     inkscape:window-x="58"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="path1546"
+     inkscape:snap-grids="true"
+     showguides="false"
+     borderlayer="false"
+     showborder="true"
+     inkscape:showpageshadow="false"
+     inkscape:snap-object-midpoints="false"
+     inkscape:snap-center="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1234"
+       visible="true"
+       empcolor="#3f3fff"
+       empopacity="0.22352941"
+       color="#7f7fbf"
+       opacity="0.1254902" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1166">
+    <marker
+       style="overflow:visible"
+       id="marker3795"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path3520" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="DotL"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="DotL"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) translate(7.4, 1)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
+         d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z "
+         id="path3581" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path11900" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <g
+       id="path1546">
+      <path
+         style="color:#000000;fill:#000000;fill-opacity:1;stroke-width:36;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:97.2;-inkscape-stroke:none"
+         d="m 20,474 a 18,18 0 0 0 -18,18 18,18 0 0 0 18,18 h 476 a 18,18 0 0 0 18,-18 18,18 0 0 0 -18,-18 z"
+         id="path913" />
+      <path
+         id="path5085"
+         style="color:#000000;fill:#000000;fill-opacity:1;stroke-width:42.2905;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:97.2;-inkscape-stroke:none"
+         d="M 255.99983,9.305638 A 21.145231,21.145231 0 0 0 234.8546,30.450869 V 49.24663 A 21.145231,21.145231 0 0 0 255.99983,70.391861 21.145231,21.145231 0 0 0 277.14506,49.24663 V 30.450869 A 21.145231,21.145231 0 0 0 255.99983,9.305638 Z M 180.81679,46.89716 A 21.145231,21.145231 0 0 0 159.67156,68.042391 V 86.83815 a 21.145231,21.145231 0 0 0 21.14523,21.14523 21.145231,21.145231 0 0 0 21.14523,-21.14523 V 68.042391 A 21.145231,21.145231 0 0 0 180.81679,46.89716 Z m 150.36608,0 A 21.145231,21.145231 0 0 0 310.03764,68.042391 V 86.83815 a 21.145231,21.145231 0 0 0 21.14523,21.14523 21.145231,21.145231 0 0 0 21.14523,-21.14523 V 68.042391 A 21.145231,21.145231 0 0 0 331.18287,46.89716 Z m -75.18304,56.38728 a 21.145231,21.145231 0 0 0 -21.14523,21.14523 v 46.43415 c -11.93907,2.70595 -23.063,7.6297 -32.89258,14.34004 v -23.18267 a 21.145231,21.145231 0 0 0 -21.14523,-21.14523 21.145231,21.145231 0 0 0 -21.14523,21.14523 V 256 a 21.145231,21.145231 0 0 0 0.33039,1.23439 c -0.1974,2.50163 -0.3281,5.02173 -0.3281,7.57153 0,52.95012 43.37815,96.32827 96.32827,96.32827 52.95013,0 96.32827,-43.37815 96.32827,-96.32827 0,-2.55451 -0.13226,-5.07915 -0.33039,-7.5853 A 21.145231,21.145231 0 0 0 352.3281,256 v -93.97881 a 21.145231,21.145231 0 0 0 -21.14523,-21.14523 21.145231,21.145231 0 0 0 -21.14523,21.14523 v 23.17808 c -9.82948,-6.70932 -20.95399,-11.63021 -32.89258,-14.33545 v -46.43415 a 21.145231,21.145231 0 0 0 -21.14523,-21.14523 z" />
+    </g>
+  </g>
+</svg>

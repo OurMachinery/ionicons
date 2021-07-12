@@ -3,5 +3,23 @@
     "mouse-left": 57345,
     "mouse-right": 57346,
     "mouse-middle": 57347,
-    "mouse-double": 57348
+    "mouse-double": 57348,
+
+    "children-tree": 57360,
+    "creation-graph": 57361,
+    "detailed-list": 57362,
+    "inherit-from-parent": 57363,
+    "propagate-to-parent": 57364,
+    "attach-to-process": 57365,
+    "capture-renderdoc": 57366,
+
+    "box": 57376,
+    "box-outline": 57377,
+    "box-dashed": 57378,
+    "puzzle": 57379,
+    "puzzle-outline": 57380,
+    "tetrahedron": 57381,
+    "physics-shape": 57382,
+    "physics-body": 57383,
+    "physics-joint": 57384
 }

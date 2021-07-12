@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512.0px"
+   height="512.0px"
+   viewBox="0 0 512.0 512.0"
+   version="1.1"
+   id="SVGRoot"
+   sodipodi:docname="tm_detailed_list.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1171"
+     pagecolor="#333333"
+     bordercolor="#f2c302"
+     borderopacity="0.27058824"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="false"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="0.48"
+     inkscape:cx="51.041667"
+     inkscape:cy="369.79167"
+     inkscape:window-width="1854"
+     inkscape:window-height="1057"
+     inkscape:window-x="58"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:snap-grids="true"
+     showguides="false"
+     borderlayer="false"
+     showborder="true"
+     inkscape:showpageshadow="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1234"
+       visible="true"
+       empcolor="#3f3fff"
+       empopacity="0.22352941"
+       color="#7f7fbf"
+       opacity="0.1254902" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1166">
+    <marker
+       style="overflow:visible"
+       id="marker3795"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path3520" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="DotL"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="DotL"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) translate(7.4, 1)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
+         d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z "
+         id="path3581" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path11900" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <g
+       id="path9135"
+       style="fill:none;fill-opacity:1">
+      <path
+         id="rect1483"
+         style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:61.2;-inkscape-stroke:none"
+         d="M 20,10 A 18.0018,18.0018 0 0 0 2,28 v 80 a 18.0018,18.0018 0 0 0 18,18 h 80 a 18.0018,18.0018 0 0 0 18,-18 V 28 A 18.0018,18.0018 0 0 0 100,10 Z M 38,46 H 82 V 90 H 38 Z M 20,134 A 18.0018,18.0018 0 0 0 2,152 v 80 a 18.0018,18.0018 0 0 0 18,18 h 80 a 18.0018,18.0018 0 0 0 18,-18 v -80 a 18.0018,18.0018 0 0 0 -18,-18 z m 18,36 h 44 v 44 H 38 Z M 20,258 A 18.0018,18.0018 0 0 0 2,276 v 80 a 18.0018,18.0018 0 0 0 18,18 h 80 a 18.0018,18.0018 0 0 0 18,-18 v -80 a 18.0018,18.0018 0 0 0 -18,-18 z m 18,36 h 44 v 44 H 38 Z M 20,382 A 18.0018,18.0018 0 0 0 2,400 v 80 a 18.0018,18.0018 0 0 0 18,18 h 80 a 18.0018,18.0018 0 0 0 18,-18 v -80 a 18.0018,18.0018 0 0 0 -18,-18 z m 18,36 h 44 v 44 H 38 Z" />
+    </g>
+    <path
+       id="path2745"
+       style="color:#000000;fill:#000000;stroke-dasharray:216, 36;stroke-dashoffset:54;-inkscape-stroke:none"
+       d="M 136,50 V 86 H 298 V 50 Z m 198,0 V 86 H 508 V 50 Z M 136,174 v 36 h 162 v -36 z m 198,0 v 36 H 508 V 174 Z M 136,298 v 36 h 162 v -36 z m 198,0 v 36 H 508 V 298 Z M 136,422 v 36 h 162 v -36 z m 198,0 v 36 h 174 v -36 z" />
+  </g>
+</svg>
